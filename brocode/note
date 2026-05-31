@@ -1,0 +1,13 @@
+bool ( boolean (true or false ) )
+//single character use char 
+example : char grade = 'A'
+
+we can use string by:
+#include <string>
+int main() {
+    std::string name = "Hello anh em"
+    std::cout << string
+    return 0;
+}
+
+namespace và const 
