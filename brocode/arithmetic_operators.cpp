@@ -19,7 +19,12 @@ int main() {
     //students --; chỉ trừ 1 so với giá trị ban đầu
 
     //students *= 2;
-    students /= 2;
-    cout << students;
+    //students /= 3;
+
+    ////   % là chia xong lấy phần dư 
+    int remainder = students % 3;
+    //remainder kiểu là số dư còn lại
+    cout << students << endl;
+    cout << remainder;
     return 0;
 }
